@@ -4,6 +4,7 @@
 	"description":		"Deutsprachiges Tutorial für eine AngularJS-Anwendung mit NodeJS Backend",
 	"private":				false,
 	"dependencies":		{
-		"express":				"latest"
+		"express":				"latest",
+		"livereload":			"latest"
 	}
 }
