@@ -1,0 +1,9 @@
+{
+	"name":						"node-express-angular-tutorial",
+	"version":				"0.0.1",
+	"description":		"Deutsprachiges Tutorial für eine AngularJS-Anwendung mit NodeJS Backend",
+	"private":				false,
+	"dependencies":		{
+		"express":				"latest"
+	}
+}
